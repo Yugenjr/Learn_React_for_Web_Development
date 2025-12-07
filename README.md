@@ -74,3 +74,51 @@ The goal is to create a **free, well-organized, high-quality learning path** for
 
    ```bash
    git clone https://github.com/YOUR_USERNAME/react-learning-material.git
+
+2. Start from the Beginner folder and move upward.
+
+3. Follow the examples and complete the practice exercises.
+
+4. Explore the Projects folder to apply what you’ve learned.
+
+🤝 Contributing
+
+- Contributions are welcome!
+
+If you’d like to:
+
+- Improve explanations
+- Add examples
+- Fix typos
+- Add new topics
+
+Follow these steps:
+
+- Fork the repository
+- Create a new branch
+- Make your changes
+- Submit a pull request
+
+Please follow the existing structure before adding new content.
+
+📌 Roadmap
+
+Add TypeScript for React
+
+Add Redux Toolkit section
+
+Add testing (Jest + React Testing Library)
+
+Add deployment guides (Vercel, Netlify)
+
+Add system design for React apps
+
+📄 License
+
+This project is licensed under the MIT License.
+You are free to use, modify, and distribute the content.
+
+⭐ Support
+
+If you find this project helpful, consider giving it a star on GitHub.
+It helps the project grow and reach more learners.
